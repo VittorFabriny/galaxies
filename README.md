@@ -2,7 +2,7 @@
 
 ## Apresentação
 
-Bem-vindo ao projeto 'Galaxies'! Este repositório destaca os conhecimentos adquiridos no curso sobre 'display grid', demonstrando sua aplicação e diferenciais. Além disso, o projeto ilustra como o 'display grid' pode ser combinado eficientemente com outros sistemas de exibição.
+Bem-vindo ao projeto `Galaxies`! Este repositório destaca os conhecimentos adquiridos no curso sobre `display grid`, demonstrando sua aplicação e diferenciais. Além disso, o projeto ilustra como o `display grid` pode ser combinado eficientemente com outros sistemas de exibição.
 
 ## Sobre o Projeto
 
